@@ -4,3 +4,4 @@ package-lock.json
 
 auto-update.xml
 *.crx
+*.zip
